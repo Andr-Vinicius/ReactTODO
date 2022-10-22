@@ -10,3 +10,6 @@ Para iniciar o projeto e roda-lo em seu navegador, você precisa rodar em 2 term
 ->npm run server
 
 ->npm start
+
+
+<img src="./public/TODO.jpg" />
